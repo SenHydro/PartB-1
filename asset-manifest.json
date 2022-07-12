@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SenHydro/PartB-1.git/static/css/main.95a37dee.css",
+    "main.js": "/SenHydro/PartB-1.git/static/js/main.e4108a95.js",
+    "static/js/787.11aa9a8e.chunk.js": "/SenHydro/PartB-1.git/static/js/787.11aa9a8e.chunk.js",
+    "index.html": "/SenHydro/PartB-1.git/index.html",
+    "main.95a37dee.css.map": "/SenHydro/PartB-1.git/static/css/main.95a37dee.css.map",
+    "main.e4108a95.js.map": "/SenHydro/PartB-1.git/static/js/main.e4108a95.js.map",
+    "787.11aa9a8e.chunk.js.map": "/SenHydro/PartB-1.git/static/js/787.11aa9a8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a37dee.css",
+    "static/js/main.e4108a95.js"
+  ]
+}
